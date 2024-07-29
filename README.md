@@ -12,7 +12,9 @@ The following analysis focuses on crime activities solely in Cambridge City, wit
 
 
 <h2>Data Processing</h2>
-Although the data ranges from the early 1900s to 2024 for the years which various crimes are enacted, few data points exist prior 2009 (decreases reliability of data) and the data for 2024 is incomplete (forming conclusions through incomplete data could be fatal): I decided to limit my focus on the range 2009-2023 for most analysis because of those reasons.
+Although the data ranges from the early 1900s to 2024 for the years which various crimes have occurred, few data points exist prior 2009 (which decreases reliability of data) and the data for 2024 is incomplete (and forming conclusions through incomplete data could be fatal): I limited my focus on the range 2009-2023 for most of my analysis concerning years because of those reasons. The 'Crime Date Time' feature is processed such that only the FIRST date and time for each string are retrieved; some datetime strings span more than one date with multiple times, which analyzing the full extent of the period is cumbersome and may be less informative as all the time strings are relatively similar. <br></br>
+
+Any entries with missing values for 'Crime Date Time' are removed because the feature is of interest. For any entries with missing values for "Location" but all other values are intact, the NA are substituted with "UNKNOWN". This is reasonable because any values for "Location" are only estimates of the true location within a 100-block radius. The values themselves are uncertain, as much as the value of "UNKNOWN".
 
 <h2>Data Analysis</h2>
 <h3>The Popular, Rising, Dominating Crimes</h2>
@@ -30,6 +32,8 @@ Although the data ranges from the early 1900s to 2024 for the years which variou
 <h3>Crimes in Neighborhoods</h2>
 
 ![neighborhood count](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/neighborhood_count.png?raw=true)
+
+![neighborhood hours](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/neighborhood_hours.png?raw=true)
 
 <h3>Preventaion Strategies</h2>
 
