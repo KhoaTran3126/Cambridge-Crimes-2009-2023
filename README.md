@@ -23,11 +23,11 @@ Any entries with missing values for 'Crime Date Time' are removed because the fe
 
 ![trends](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/trends.png?raw=true)
 
-![relative change](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/relative_change.png?raw=true)
+![relative changes](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/relative_changes.png?raw=true)
 
 ![densities](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/densities.png?raw=true)
 
-![general hours](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/general_hours.png?raw=true)
+![crime hours](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/crime_hours.png?raw=true)
 
 <h3>Crimes in Neighborhoods</h2>
 
