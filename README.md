@@ -16,8 +16,21 @@ Although the data ranges from the early 1900s to 2024 for the years which variou
 
 <h2>Data Analysis</h2>
 <h3>The Popular, Rising, Dominating Crimes</h2>
-![Graph 1](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/crime_count.png?raw=true)
+
+![crime count](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/crime_count.png?raw=true)
+
+![trends](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/trends.png?raw=true)
+
+![relative change](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/relative_change.png?raw=true)
+
+![densities](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/densities.png?raw=true)
+
+![general hours](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/general_hours.png?raw=true)
+
 <h3>Crimes in Neighborhoods</h2>
+
+![neighborhood count](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/neighborhood_count.png?raw=true)
+
 <h3>Preventaion Strategies</h2>
 
 <h2>Conclusion</h2>
