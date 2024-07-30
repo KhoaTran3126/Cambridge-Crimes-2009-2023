@@ -21,6 +21,8 @@ Any entries with missing values for 'Crime Date Time' are removed because the fe
 
 The top most reported crimes in Cambridge city commprise Hit and Run, Larceny acts, and Forgery. Of these top crimes, Larceny of Bicycle displays the most drastic trend from 2009 to 2023; other trends for other activities remain relatively stable, increasing slightly, or decreasing slightly.  
 
+![trends](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/crime_count.png?raw=true)
+
 ![trends](https://github.com/KhoaTran3126/Cambridge-Crimes-2009-2023/blob/main/plots/trends.png?raw=true)
 
 To further inspect the change in crime activities, another metric is introduced: relative change. Larceny of Bicycle experienced doubled activity in 2023 as compared to 2009, followed by Shoplifting with a little greater than a 50% increase in activity. Surprisingly, Hit and Run activity has increased by a much lesser perentage than either shoplifting or bicycle theft despite being the MOST reported crime. 
